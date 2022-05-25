@@ -1,0 +1,4 @@
+I am shiv kumar
+I have many friends
+There are many errors in python
+I am doing file handling

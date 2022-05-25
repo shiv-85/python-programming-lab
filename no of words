@@ -1,0 +1,9 @@
+f=open("shiv.txt",'r')
+g=0
+x=f.readlines()
+for i in x:
+    for j in i:
+        if j==' ' and j=='\n':
+           g=g+1
+print(g)
+f.close()
