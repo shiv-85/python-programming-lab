@@ -1,0 +1,10 @@
+l1=[1,1,5,4]
+count=sum(l1)
+avg=(count/len(l1))
+print(count)
+print(avg)
+print(len(l1))
+print(l1)
+pos1,pos2=1,2
+pos[1],pos[2]=pos[2],pos[1]
+print(l1)

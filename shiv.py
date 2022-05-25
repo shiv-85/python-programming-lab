@@ -1,6 +1,4 @@
-f=open("shiv.txt",'w')
-f.write('I am shiv kumar\n')
-f.write('I have many friends\n')
-f.write('There are many errors in python\n')
-f.write('I am doing file handling\n')
-f.close()
+a=int (input("enterthe number"))
+for i in range (1,a+1):
+    if a%i==0:
+        print("factor ",i)
