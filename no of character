@@ -1,3 +1,0 @@
-f=open("shiv.txt",'r')
-a=f.read()
-print(len(a))
